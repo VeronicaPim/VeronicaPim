@@ -1,4 +1,4 @@
-I work on Accessibility research, but my other interests include ML models and self driving cars. 🚗
+I work on Accessibility research, and I'm also interested in anything autonomous. 🤖 🚗
 
 <!--
 **VeronicaPim/VeronicaPim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
