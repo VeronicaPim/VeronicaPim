@@ -1,4 +1,4 @@
-I work on Accessibility research at Carnegie Mellon!
+I work on Accessibility research at Carnegie Mellon University.
 
 <!--
 **VeronicaPim/VeronicaPim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
