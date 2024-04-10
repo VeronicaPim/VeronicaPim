@@ -1,4 +1,4 @@
-I work on Accessibility research, and I'm also interested in anything autonomous. 🤖 🚗
+I mainly work on Accessibility research, but I'm also interested in anything autonomous. 🤖 🚗
 
 <!--
 **VeronicaPim/VeronicaPim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
