@@ -1,6 +1,4 @@
-Hi, I'm Veronica!
-
-- 🤓 I work on Accessibility research.
+I work on Accessibility research at Carnegie Mellon!
 
 <!--
 **VeronicaPim/VeronicaPim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
