@@ -1,4 +1,4 @@
-Hi! I'm Veronica. I'm an incoming PhD student at ... (stay tuned 👀)
+Hi! I'm Veronica. I'm about to graduate Carnegie Mellon with my BS. I am an incoming PhD student at ... (stay tuned 👀)
 
 I care about minority representation in software engineering, specifically focusing on women in people with disabilities. I mainly work on accessibility research, but I'm also interested in:
 
