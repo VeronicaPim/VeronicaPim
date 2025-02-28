@@ -1,4 +1,4 @@
-Hi! I'm Veronica. I'm about to graduate Carnegie Mellon with my BS. 
+Hi! I'm Veronica. I'm about to graduate from Carnegie Mellon with my BS. 
 
 I am an incoming PhD student at ... (stay tuned 👀)
 
