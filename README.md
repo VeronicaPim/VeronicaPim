@@ -1,6 +1,6 @@
 Hi! I'm Veronica. I'm about to graduate from Carnegie Mellon with my BS. 
 
-I am an incoming PhD student at ... (stay tuned 👀)
+I am an incoming PhD student at the University of Michigan! Go Blue! 💙💛
 
 I care about minority representation in software engineering, specifically focusing on women and people with disabilities. I mainly work on accessibility research, but I'm also interested in:
 
