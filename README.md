@@ -1,7 +1,6 @@
-Hi! I'm Veronica. I have a Bachelor's Degree from Carnegie Mellon and I am a PhD student at the University of Michigan.
+I care about minority representation in tech, specifically focusing on women and people with disabilities. I mainly work on accessibility research, but I'm also interested in:
 
-I care about minority representation in software engineering, specifically focusing on women and people with disabilities. I mainly work on accessibility research, but I'm also interested in:
-
+- safety and privacy
 - 🤖🚗 anything autonomous
 - 🌏🍃 environmental conservation
 
