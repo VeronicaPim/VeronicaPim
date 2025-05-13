@@ -1,6 +1,4 @@
-Hi! I'm Veronica. I'm about to graduate from Carnegie Mellon with my BS. 
-
-I will be attending the University of Michigan this fall for my PhD !! Go Blue !! 💙💛
+Hi! I'm Veronica. I have a Bachelor's Degree from Carnegie Mellon and I am a PhD student at the University of Michigan.
 
 I care about minority representation in software engineering, specifically focusing on women and people with disabilities. I mainly work on accessibility research, but I'm also interested in:
 
