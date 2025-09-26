@@ -1,4 +1,6 @@
-I care about minority representation in tech, specifically focusing on women and people with disabilities. I mainly work on accessibility research, but I'm also interested in:
+I care about minority representation in tech, specifically focusing on women and people with disabilities. 
+
+I mainly work on software engineering research, but I'm also interested in:
 
 - safety and privacy
 - 🤖🚗 anything autonomous
